@@ -1,0 +1,82 @@
+CLUSTAL W 2.0 multiple sequence alignment
+
+Mapped_reads_consensus   NNNNMRGNNNAANTNATNNTNTCCANTAAGNCNNCTNCNAGGGACNANNTATCACAATTTNNANTAACCA 70
+Mapped_reads_consensus   ATCTTCTCCATAAGCCTCCTCCTAGGAACANNNNNNNNNNNNNTCAAGTAACCATTGAATCATAGCAGGG 70
+Mapped_reads_consensus   CTCNGGCTAANNTCNTCNTNTCCMNNANNNNNCTCNTANGGNSANNNNTCANANTTYMARGTAACCANTG 70
+                                                       *       *           *               *   
+
+Mapped_reads_consensus   TTGAATCATGGCATGAACNGGCCTTGAAATTAACACCCTAGCTATCCTCCCNTTAATTTCAAAATCTCAC 140
+Mapped_reads_consensus   ANNGNNNNTGNAATTAACACCCTGGCTATTCTCCCTTTAATTTCAAAATCCCATCATCCNCNNNNNGTTG 140
+Mapped_reads_consensus   AATCANNGCANNANCTGGCCTTGNAAATTAACACCCTAGCTATNCNNCCNTTAATTTCAAAATCTCNCCA 140
+                                     *                    *        *             *             
+
+Mapped_reads_consensus   CNTCCGCGAGCCATTGAAGCCTCAACTAAATACNTNCNGANCCAAGCAACTGCCTCTACCNTCNTACTCT 210
+Mapped_reads_consensus   AAGCCTCNCCTAAATATTTCTTGATTCAAGCAACTGCCTCTACCCTCCTACTCTTCTCCAGCATAACCAA 210
+Mapped_reads_consensus   TCCGCGAGCCATNGAGGCNTCAACTAAATACTTNNNGATCCAAGCAACTGCCTCTACCNTCNTACTCTTC 210
+                             *                      *                          *           *   
+
+Mapped_reads_consensus   TCTCAAGCATAACCAATGCATGATTTACTGGCCAATGAGATATCACTCAGCTTACCCACCCGCTATCGTG 280
+Mapped_reads_consensus   CGCATGGTTTACTGGTCAGTGAGATATCACTCAACTTACGCACCCACTATCATGCATATTATTAACAGCC 280
+Mapped_reads_consensus   TCNAAGCATNAACCAATGCATGATTTACTGGCCAATGAGATATCACTCAGCTTACCCACCCGCTATCGTG 280
+                                   *             *  *   * * * *   * *    * * * *  *      *  *  
+
+Mapped_reads_consensus   CATATTATTAACAGCCGCAATCTCAATGAAACTAGGCTTAGTTCCATTCCACTTCTGATTCCCAGAAGTC 350
+Mapped_reads_consensus   GCAATCTCAATGAAACTAGGCTTAGTTCCCTTCCATTTCTGGTTTCCAGAGGTTGTTCAAGGGTCTTCCT 350
+Mapped_reads_consensus   CATATTATTAACAGCCGCAATCTCAATGAAACTAGGCTTAGTTCCATTCCACTTCTGATTCCCAGAAGTC 350
+                            **    *  *  *      *   *          *  * *         ** *              
+
+Mapped_reads_consensus   GTTCAAGGCTCTTCCTTAATAACAAGTCTATTACTAGCCACAATCATAAAATTCCCTCCAACTATCCTCC 420
+Mapped_reads_consensus   TAATAACAAGCTTATTACTAGCCACTATCATAAAATTCCCTCCAACTATTCTCCTCTTTCTAACCTCCCC 420
+Mapped_reads_consensus   GTTCAAGGCTCTTCCTTAATAACAAGTCTATTACTAGCCACAATCATAAAATTCCCTCCAACTATTCTCC 420
+                             **    ***  *      **     ** *    **       **   * * **         * **
+
+Mapped_reads_consensus   TCTTTCTAACCTCCTCCTCACTCAACCCCACATTACTATTTATTATAGCAATTGCTTCTGCAGCTTTAGG 490
+Mapped_reads_consensus   CTCACTCAATGCCACCTTACTATTCATAATGGCAATTGCCTCTGCAGCTTTAGGGGGCTGAATAGGTCTC 490
+Mapped_reads_consensus   TCTTTCTAACCTCCTCCTCACTCAACCCCACATTACTATTTATTATGGCAATTGCTTCTGCAGCTTTAGG 490
+                                **   *  * *                * *   * *          *   *** *    *   
+
+Mapped_reads_consensus   GGGCTGAATAGGTCTTAACCAGACCCAGATCCGTAAAATTATAGCCTTCTCGTCCATCTCACACCTAGGC 560
+Mapped_reads_consensus   NACCAAACTCAAATCCGTAAAATTATAGCCTTCTCATCCATCTCACACCTAGGCTGAATGACCATTATTC 560
+Mapped_reads_consensus   GGGCTGAATAGGTCTTAACCAGACCCAGATCCGTAAAATTATAGCCTTCTCGTCCATCTCACACCTAGGC 560
+                            *  * *           *     **     * *         *  ** * *    * **   **  *
+
+Mapped_reads_consensus   TGAATAACCATTATTCTTATTTACAACCCCAAACTTACACTAATCACCTTCTACCTCTATTCTTTAACTA 630
+Mapped_reads_consensus   TTATTTATAGTCCCAAACTTACACTAGTCACATTCTACCTCTATTCTTTAACTACAGCAGCCATTTTCTT 630
+Mapped_reads_consensus   TGAATAACCATTATTCTTATTTACAACCCCAAACTTACACTAATCACCTTCTACCTCTATTCTTTAACTA 630
+                         * * * *   *        *  ** *  *  *   ***    **    *     *   *  * **  ** 
+
+Mapped_reads_consensus   CAGCAGCCATTTTCTTTACTCTTGAAACAACTAATACCTTAAAACTATCAACCTTAATAGCCGCATGATC 700
+Mapped_reads_consensus   CACCCTTGAAACGACTAATACTTTAAAATTATCAACCTTAATA--------------------------- 700
+Mapped_reads_consensus   CAGCAGCCATTTTCTTTACCCTTGAAACAACTAATACCTTAAAATTATCGACCTTAATAGCTGCATGATC 700
+                         ** *    *      * *  *** ***    * *  * * * *                           
+
+Mapped_reads_consensus   TAAAATTCCCACCCTCACTGCAGCTCTTATACTCGCCCTCCTATCGCTCGCAGGCCTCCCCCCACTAACC 770
+Mapped_reads_consensus   ---------------------------------------------------------------------- 770
+Mapped_reads_consensus   TAAAATTCCCACCCTCACTGCAGCTCTTATACTCGCCCTCCTATCGCTCGCAGGCCTCCCCCCACTAACC 770
+                                                                                               
+
+Mapped_reads_consensus   GGATTCCTGCCTAAATGACTGATCATTCNAGAGTTAACTAAACAAGAACTCACAACTACAGCAACTATCA 840
+Mapped_reads_consensus   ---------------------------------------------------------------------- 840
+Mapped_reads_consensus   GGATTCCTGCCTAAATGACTGATCATTCAAGAGTTAACTAAACAAGAACTCACAACTACAGCAACTATCA 840
+                                                                                               
+
+Mapped_reads_consensus   TTGCCCTGCTCTCCCTACTAGGTCTCTTCTTTTACCTCCGCCTTGCCTACTGTGCAACAATTACCCTTCC 910
+Mapped_reads_consensus   ---------------------------------------------------------------------- 910
+Mapped_reads_consensus   TTGCCCTGCTCTCCCTACTAGGTCTCTTCTTTTACCTCCGCCTTGCCTACTGTGCAACAATTACCCTTCC 910
+                                                                                               
+
+Mapped_reads_consensus   CCCNAACCCTGCCAACCACATNAAACAGTGGCATACTWACNAAATCTGTCAAGATACTCACTTCTACCCT 980
+Mapped_reads_consensus   ---------------------------------------------------------------------- 980
+Mapped_reads_consensus   CCCAAACCCTGCCNACCACATAAAACAGTGGCATACNNNCNAATCTGTCNAGACACTCACTTCTACCCTT 980
+                                                                                               
+
+Mapped_reads_consensus   TGNTNTGCTATCAATTATACTCCTCCCCATATCACCCANNNTTCNYMNCATTCCATAGAAACTTNNGGTT 1050
+Mapped_reads_consensus   ---------------------------------------------------------------------- 1050
+Mapped_reads_consensus   GNTATACTATCAATTATANNNCNNCCMNNATNACCCMMNNNTCTCANCATTNCATANAAMCTTAGGTTAC 1050
+                                                                                               
+
+Mapped_reads_consensus   ACNTCNANCNNNAAGGCYTNAN 1072
+Mapped_reads_consensus   ---------------------- 1072
+Mapped_reads_consensus   TNNAA----------------- 1072
+                                               
+
