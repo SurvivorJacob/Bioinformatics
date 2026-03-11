@@ -1,26 +1,25 @@
 {
-    "id": "C86B43A0",
-    "path": "~/Bioinformatics/Lab6_MSA.R",
-    "project_path": "Lab6_MSA.R",
+    "id": "835E706E",
+    "path": "~/Bioinformatics/Lab10_script.R",
+    "project_path": "Lab10_script.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
-    "dirty": false,
-    "created": 1773240566486.0,
+    "dirty": true,
+    "created": 1773241732484.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
+        "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "7,19",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1770668794,
+    "lastKnownWriteTime": 1773241781,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1770668794,
+    "last_content_update": 1773241781350,
     "read_only": false,
     "read_only_alternatives": []
 }
