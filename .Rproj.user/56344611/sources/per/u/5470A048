@@ -1,12 +1,12 @@
 {
-    "id": "835E706E",
-    "path": "~/Bioinformatics/Lab10_script.R",
-    "project_path": "Lab10_script.R",
+    "id": "5470A048",
+    "path": null,
+    "project_path": null,
     "type": "r_source",
     "hash": "0",
     "contents": "",
-    "dirty": true,
-    "created": 1773241732484.0,
+    "dirty": false,
+    "created": 1773266080650.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -15,11 +15,11 @@
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773241781,
-    "encoding": "UTF-8",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773241781350,
+    "last_content_update": 1773266080650,
     "read_only": false,
     "read_only_alternatives": []
 }
