@@ -1,0 +1,21 @@
+/var/spool/slurmd/job01576/slurm_script: line 15: cd: /export/home/bio_class/Lab_9work: No such file or directory
+/var/spool/slurmd/job01576/slurm_script: line 41: 
+java -jar /export/share/software/biological/picard/picard.jar \
+	CreateSequenceDictionary \
+    REFERENCE=genome/Thermus_thermophilus_TTHNAR1.fa \
+    OUTPUT=genome/Thermus_thermophilus_TTHNAR1.dict
+
+
+# worked
+/export/share/software/biological/bowtie2-2.4.2-sra-linux-x86_64/bowtie2-build \
+	genome/Thermus_thermophilus_TTHNAR1.fa \
+	genome/Thermus_thermophilus_TTHNAR1
+
+# run bowtie2 and samtools separately for testing. bowtie2 failed.
+/export/share/software/biological/bowtie2-2.4.2-sra-linux-x86_64/bowtie2 -x \
+		genome/Thermus_thermophilus_TTHNAR1 \
+        -1 fastq/${SRR}_pass_1.fastq.gz \
+        -2 fastq/${SRR}_pass_2.fastq.gz --sensitive-local \
+        --rg-id ${SRR} --rg SM:${SRR} --rg PL:ILLUMINA \
+        > alignment/${SRR}.sam
+: No such file or directory
